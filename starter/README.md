@@ -39,8 +39,7 @@ As an employee with a busy schedule, you need an efficient way to manage your da
 - Day.js
 
 ## View Website
-
-
+https://sandesh2034.github.io/-Daily-Planner-App/ 
 
 ## Author
 
